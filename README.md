@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Sachin Rao. I am passionate about Data Science, <br>Artificial Intelligence, and Generative AI. I enjoy building practical <br>AI-powered solutions that solve real-world problems. Recently, I have <br>worked on projects such as a Business Sales Performance Dashboard, <br>a Multifunctional NLP & Image Generation Tool using Hugging Face <br>models, and 'RAG Over Bharat,' which leverages Retrieval-Augmented <br>Generation to provide intelligent information retrieval. Currently I'm <br>working on a new project that would help us in real-life use.
+Hello, my name is Sachin Kumar Rao. I am passionate about Data Science, <br>Artificial Intelligence, and Generative AI. I enjoy building practical <br>AI-powered solutions that solve real-world problems. Recently, I have <br>worked on projects such as a Business Sales Performance Dashboard, <br>a Multifunctional NLP & Image Generation Tool using Hugging Face <br>models, and 'RAG Over Bharat,' which leverages Retrieval-Augmented <br>Generation to provide intelligent information retrieval. Currently I'm <br>working on a new project that would help us in real-life use.
 
 
 ## 🌐 Socials:
